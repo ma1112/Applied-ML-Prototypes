@@ -110,7 +110,7 @@ entries:
     image_path: >-
       https://raw.githubusercontent.com/cloudera/Applied-ML-Prototypes/master/images/structural-time-series.jpg
     tags:
-      - Time Series
+      - Time Seriess
       - Prophet
       - Demand Forcasting
     git_url: "https://github.com/ma1112/CML_AMP_Structural_Time_Series.git"
