@@ -99,7 +99,7 @@ entries:
       - PyTorch
     git_url: "https://github.com/ma1112/CML_AMP_Intelligent_Writing_Assistance.git"
     is_prototype: true
-    - title: Structural Time Series
+  - title: Structural Time Series
     label: structural-time-series
     short_description: Applying a structural time series approach to California hourly electricity demand data.
     long_description: >-
